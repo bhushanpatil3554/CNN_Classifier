@@ -1,1 +1,1 @@
-# general_template_dl
+# CNN Classifier
